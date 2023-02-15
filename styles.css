@@ -18,6 +18,12 @@ td{
 	text-align: right;
 }
 
-span{
+#dif{
 	text-align: left;
+}
+thead tr:nth-child(1){
+	background: red;
+}
+tbody tr:nth-child(3){
+	background: grey;
 }
